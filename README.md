@@ -4,4 +4,4 @@
 
 npm install
 
-#Isso vai recriar o node_modules automaticamente com base no seu package.json.
+#Isso vai recriar o node_modules automaticamente com base no package.json.
